@@ -23,7 +23,7 @@
 
   - 2 memory management (also extend to JVM)
       - virtual memory
-  	  - physical memory
+	  - physical memory
 	  - memory mappping
 
   - 3 network
