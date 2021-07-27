@@ -5,10 +5,10 @@
 	- [JUC](/Java/concurrency/JUC.md)
 
 + Database
-    - [存储结构](/database/database_internal)
-	- [索引](/database/index)
-	- [事务](/database/transaction)
-	- [并发控制技术](/database/Lock_MVCC)
+    - [存储结构](/Database/database_internal)
+	- [索引](/Database/index)
+	- [事务](/Database/transaction)
+	- [并发控制技术](/Database/Lock_MVCC)
 
 + Mybatis
 	- [介绍](/Mybatis/introduction)
